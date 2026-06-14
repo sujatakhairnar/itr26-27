@@ -57,8 +57,10 @@ Isolating work in branches, changing context, and integrating changes
 
 
 **git branch**
+
 list your branches. a * will appear next to the currently active branch
 
 
 **git branch [branch-name]**
+
 create a new branch at the current commit
